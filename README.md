@@ -14,7 +14,7 @@ Every text is available in German, English or both. Your progress is saved in yo
 
 ## Use it online
 
-Open the GitHub Pages site for this repository. Everything works there except listening, because the speech analysis needs your own computer.
+**[ebekulak.github.io/vorsprache](https://ebekulak.github.io/vorsprache/)**. Everything works there except listening, because the speech analysis needs your own computer.
 
 ## Run it on your computer
 
